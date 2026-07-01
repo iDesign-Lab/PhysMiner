@@ -269,9 +269,9 @@ If you use PhysMiner in your research, please cite:
 
 ```
 @software{physminer2025,
-  author = {Jiawei Chen},
+  author = {Jiawei Chen， Han Gao, Ping He},
   title  = {PhysMiner: An LLM-based framework for discovering flow physics},
-  year   = {2025},
+  year   = {2026},
   url    = {https://github.com/chenjiaweiDr/PhysMiner}
 }
 ```
