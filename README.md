@@ -6,7 +6,7 @@ PhysMiner combines classical CFD post-processing with large language models to a
 
 ---
 
-![PhysMiner Demo](video/PhysMiner.mp4)
+https://github.com/user-attachments/assets/d536f436-20a6-4ecd-97c6-491c22320129
 
 ---
 
