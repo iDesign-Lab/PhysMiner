@@ -268,7 +268,7 @@ Skills bundled with this repository:
 If you use PhysMiner in your research, please cite:
 
 ```
-@software{physminer2025,
+@software{physminer2026,
   author = {Jiawei Chen， Han Gao, Ping He},
   title  = {PhysMiner: An LLM-based framework for discovering flow physics},
   year   = {2026},
