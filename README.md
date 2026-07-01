@@ -6,6 +6,10 @@ PhysMiner combines classical CFD post-processing with large language models to a
 
 ---
 
+![PhysMiner Demo](video/PhysMiner.mp4)
+
+---
+
 ## Overview
 
 PhysMiner consists of four sequential stages:
