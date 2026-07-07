@@ -272,7 +272,7 @@ If you use PhysMiner in your research, please cite:
   author = {Jiawei Chen， Han Gao, Ping He},
   title  = {PhysMiner: An LLM-based framework for discovering flow physics},
   year   = {2026},
-  url    = {https://github.com/chenjiaweiDr/PhysMiner}
+  url    = {arXiv:2607.04009}
 }
 ```
 
