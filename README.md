@@ -268,11 +268,14 @@ Skills bundled with this repository:
 If you use PhysMiner in your research, please cite:
 
 ```
-@software{physminer2026,
-  author = {Jiawei Chen， Han Gao, Ping He},
-  title  = {PhysMiner: An LLM-based framework for discovering flow physics},
-  year   = {2026},
-  url    = {https://doi.org/10.48550/arXiv.2607.04009}
+@misc{chen2026physmineragenticaiframework,
+      title={PhysMiner: An Agentic AI Framework for Discovering Turbulence Physics}, 
+      author={Jiawei Chen and Han Gao and Ping He},
+      year={2026},
+      eprint={2607.04009},
+      archivePrefix={arXiv},
+      primaryClass={physics.flu-dyn},
+      url={https://arxiv.org/abs/2607.04009}, 
 }
 ```
 
